@@ -1,0 +1,15 @@
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\07. Projects Creation\bin\Debug\net5.0\07. Projects Creation.exe
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\07. Projects Creation\bin\Debug\net5.0\07. Projects Creation.deps.json
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\07. Projects Creation\bin\Debug\net5.0\07. Projects Creation.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\07. Projects Creation\bin\Debug\net5.0\07. Projects Creation.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\07. Projects Creation\bin\Debug\net5.0\07. Projects Creation.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\07. Projects Creation\bin\Debug\net5.0\ref\07. Projects Creation.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\07. Projects Creation\bin\Debug\net5.0\07. Projects Creation.pdb
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\07. Projects Creation\obj\Debug\net5.0\07. Projects Creation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\07. Projects Creation\obj\Debug\net5.0\07. Projects Creation.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\07. Projects Creation\obj\Debug\net5.0\07. Projects Creation.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\07. Projects Creation\obj\Debug\net5.0\07. Projects Creation.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\07. Projects Creation\obj\Debug\net5.0\07. Projects Creation.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\07. Projects Creation\obj\Debug\net5.0\ref\07. Projects Creation.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\07. Projects Creation\obj\Debug\net5.0\07. Projects Creation.pdb
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\07. Projects Creation\obj\Debug\net5.0\07. Projects Creation.genruntimeconfig.cache
