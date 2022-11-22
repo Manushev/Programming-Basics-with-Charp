@@ -1,0 +1,16 @@
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\helloSoftUni\bin\Debug\net5.0\helloSoftUni.exe
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\helloSoftUni\bin\Debug\net5.0\helloSoftUni.deps.json
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\helloSoftUni\bin\Debug\net5.0\helloSoftUni.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\helloSoftUni\bin\Debug\net5.0\helloSoftUni.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\helloSoftUni\bin\Debug\net5.0\helloSoftUni.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\helloSoftUni\bin\Debug\net5.0\ref\helloSoftUni.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\helloSoftUni\bin\Debug\net5.0\helloSoftUni.pdb
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\helloSoftUni\obj\Debug\net5.0\helloSoftUni.csproj.AssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\helloSoftUni\obj\Debug\net5.0\helloSoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\helloSoftUni\obj\Debug\net5.0\helloSoftUni.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\helloSoftUni\obj\Debug\net5.0\helloSoftUni.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\helloSoftUni\obj\Debug\net5.0\helloSoftUni.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\helloSoftUni\obj\Debug\net5.0\helloSoftUni.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\helloSoftUni\obj\Debug\net5.0\ref\helloSoftUni.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\helloSoftUni\obj\Debug\net5.0\helloSoftUni.pdb
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\FirstStepsInProgramming\helloSoftUni\obj\Debug\net5.0\helloSoftUni.genruntimeconfig.cache
