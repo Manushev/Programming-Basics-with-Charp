@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3882cf15-4cf4-41c7-9766-d0ae97ebdb21": {
+      "ProjectGuid": "3882cf15-4cf4-41c7-9766-d0ae97ebdb21",
+      "DisplayName": "helloSoftUni",
+      "ColorIndex": 0
+    },
+    "b10aa4b5-00c4-424d-b4d9-205780d76417": {
+      "ProjectGuid": "b10aa4b5-00c4-424d-b4d9-205780d76417",
+      "DisplayName": "02. Nums 1-10",
+      "ColorIndex": 1
+    },
+    "386d281d-9940-41be-81b4-beaec4be08d7": {
+      "ProjectGuid": "386d281d-9940-41be-81b4-beaec4be08d7",
+      "DisplayName": "03. Rectangle Area",
+      "ColorIndex": 2
+    },
+    "cb4635d1-41ef-4123-8649-a37e5727655a": {
+      "ProjectGuid": "cb4635d1-41ef-4123-8649-a37e5727655a",
+      "DisplayName": "04. Inches to Centimeters",
+      "ColorIndex": 3
+    },
+    "e911b70d-0d58-4a71-85bb-b189aeb577a8": {
+      "ProjectGuid": "e911b70d-0d58-4a71-85bb-b189aeb577a8",
+      "DisplayName": "05. Greeting by Name",
+      "ColorIndex": 4
+    },
+    "d828922b-99b6-40e4-8cdf-ac52168c71f1": {
+      "ProjectGuid": "d828922b-99b6-40e4-8cdf-ac52168c71f1",
+      "DisplayName": "06. Concatenate Data",
+      "ColorIndex": 5
+    },
+    "908071a9-c324-4a32-943a-8abe03dc2d88": {
+      "ProjectGuid": "908071a9-c324-4a32-943a-8abe03dc2d88",
+      "DisplayName": "07. Projects Creation",
+      "ColorIndex": 6
+    },
+    "ee47811d-bf5a-49a6-bafb-6aafdd48017a": {
+      "ProjectGuid": "ee47811d-bf5a-49a6-bafb-6aafdd48017a",
+      "DisplayName": "08. Pet Shop",
+      "ColorIndex": 7
+    },
+    "6e3c54a3-1ffc-4037-8513-5e639ca77edb": {
+      "ProjectGuid": "6e3c54a3-1ffc-4037-8513-5e639ca77edb",
+      "DisplayName": "09. Yard Greening",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}
