@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f5757b6d-bda4-4f5f-bb98-527672203db6": {
+      "ProjectGuid": "f5757b6d-bda4-4f5f-bb98-527672203db6",
+      "DisplayName": "01. USD to BGN",
+      "ColorIndex": 0
+    },
+    "b438ff8a-15c6-4ef0-8f61-2ddee8fe3b02": {
+      "ProjectGuid": "b438ff8a-15c6-4ef0-8f61-2ddee8fe3b02",
+      "DisplayName": "02. Radians to Degrees",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
