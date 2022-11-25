@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Deposit Calculator", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Vacation Books List", "04. Vacation Books List\04. Vacation Books List.csproj", "{5379B446-671D-402D-AD1C-A1DE1D81AF67}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Supplies for School", "05. Supplies for School\05. Supplies for School.csproj", "{24CE583F-AB89-42E3-BBD2-8F75B69B2314}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{5379B446-671D-402D-AD1C-A1DE1D81AF67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5379B446-671D-402D-AD1C-A1DE1D81AF67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5379B446-671D-402D-AD1C-A1DE1D81AF67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24CE583F-AB89-42E3-BBD2-8F75B69B2314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24CE583F-AB89-42E3-BBD2-8F75B69B2314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24CE583F-AB89-42E3-BBD2-8F75B69B2314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24CE583F-AB89-42E3-BBD2-8F75B69B2314}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
