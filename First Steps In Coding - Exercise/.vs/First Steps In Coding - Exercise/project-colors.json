@@ -10,7 +10,12 @@
       "ProjectGuid": "b438ff8a-15c6-4ef0-8f61-2ddee8fe3b02",
       "DisplayName": "02. Radians to Degrees",
       "ColorIndex": 1
+    },
+    "27e1308d-d80b-46fc-a807-559fd4b9b5fd": {
+      "ProjectGuid": "27e1308d-d80b-46fc-a807-559fd4b9b5fd",
+      "DisplayName": "03. Deposit Calculator",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
