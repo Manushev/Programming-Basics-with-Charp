@@ -15,7 +15,17 @@
       "ProjectGuid": "27e1308d-d80b-46fc-a807-559fd4b9b5fd",
       "DisplayName": "03. Deposit Calculator",
       "ColorIndex": 2
+    },
+    "5379b446-671d-402d-ad1c-a1de1d81af67": {
+      "ProjectGuid": "5379b446-671d-402d-ad1c-a1de1d81af67",
+      "DisplayName": "04. Vacation Books List",
+      "ColorIndex": 3
+    },
+    "24ce583f-ab89-42e3-bbd2-8f75b69b2314": {
+      "ProjectGuid": "24ce583f-ab89-42e3-bbd2-8f75b69b2314",
+      "DisplayName": "05. Supplies for School",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 5
 }
