@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Repainting", "06. Repai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Food Delivery", "07. Food Delivery\07. Food Delivery.csproj", "{BB755573-E6E2-4525-BFB6-BAFEB879B899}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Basketball Equipment", "08. Basketball Equipment\08. Basketball Equipment.csproj", "{3C1D7BB6-BD68-47B9-9E12-341C70336E20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{BB755573-E6E2-4525-BFB6-BAFEB879B899}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB755573-E6E2-4525-BFB6-BAFEB879B899}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB755573-E6E2-4525-BFB6-BAFEB879B899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C1D7BB6-BD68-47B9-9E12-341C70336E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1D7BB6-BD68-47B9-9E12-341C70336E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C1D7BB6-BD68-47B9-9E12-341C70336E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C1D7BB6-BD68-47B9-9E12-341C70336E20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
