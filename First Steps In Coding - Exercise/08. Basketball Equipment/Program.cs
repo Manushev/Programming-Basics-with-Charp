@@ -11,7 +11,7 @@ namespace _08._Basketball_Equipment
             //Equipment
             var sneakersPrice = basketballFee - (basketballFee * 0.40);
             var clothingPrice = sneakersPrice - (sneakersPrice * 0.20);
-            ;
+            
             var ballPrice = clothingPrice / 4;
             var accessories = ballPrice / 5;
 

@@ -1,0 +1,15 @@
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net5.0\09. Fish Tank.exe
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net5.0\09. Fish Tank.deps.json
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net5.0\09. Fish Tank.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net5.0\09. Fish Tank.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net5.0\09. Fish Tank.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net5.0\ref\09. Fish Tank.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net5.0\09. Fish Tank.pdb
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net5.0\09. Fish Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net5.0\09. Fish Tank.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net5.0\09. Fish Tank.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net5.0\09. Fish Tank.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net5.0\09. Fish Tank.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net5.0\ref\09. Fish Tank.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net5.0\09. Fish Tank.pdb
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net5.0\09. Fish Tank.genruntimeconfig.cache
