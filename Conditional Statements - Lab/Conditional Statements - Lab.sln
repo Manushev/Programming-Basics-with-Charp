@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Even or Odd", "03. Even
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Password Guess", "04. Password Guess\04. Password Guess.csproj", "{4B6E8B3F-A164-42FF-A1B3-142BFDBE59FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Number 100-200", "05. Number 100-200\05. Number 100-200.csproj", "{9948439C-2A4D-4E01-B61E-2CD4AED3691E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{4B6E8B3F-A164-42FF-A1B3-142BFDBE59FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B6E8B3F-A164-42FF-A1B3-142BFDBE59FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B6E8B3F-A164-42FF-A1B3-142BFDBE59FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9948439C-2A4D-4E01-B61E-2CD4AED3691E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9948439C-2A4D-4E01-B61E-2CD4AED3691E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9948439C-2A4D-4E01-B61E-2CD4AED3691E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9948439C-2A4D-4E01-B61E-2CD4AED3691E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
