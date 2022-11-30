@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Password Guess", "04. P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Number 100-200", "05. Number 100-200\05. Number 100-200.csproj", "{9948439C-2A4D-4E01-B61E-2CD4AED3691E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Speed Info", "06. Speed Info\06. Speed Info.csproj", "{F5296011-20D7-42FF-9906-AE439DC3F1EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{9948439C-2A4D-4E01-B61E-2CD4AED3691E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9948439C-2A4D-4E01-B61E-2CD4AED3691E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9948439C-2A4D-4E01-B61E-2CD4AED3691E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5296011-20D7-42FF-9906-AE439DC3F1EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5296011-20D7-42FF-9906-AE439DC3F1EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5296011-20D7-42FF-9906-AE439DC3F1EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5296011-20D7-42FF-9906-AE439DC3F1EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
