@@ -25,7 +25,27 @@
       "ProjectGuid": "24ce583f-ab89-42e3-bbd2-8f75b69b2314",
       "DisplayName": "05. Supplies for School",
       "ColorIndex": 4
+    },
+    "445bdc5b-5b2a-4795-ac38-c7403332a9f1": {
+      "ProjectGuid": "445bdc5b-5b2a-4795-ac38-c7403332a9f1",
+      "DisplayName": "06. Repainting",
+      "ColorIndex": 5
+    },
+    "bb755573-e6e2-4525-bfb6-bafeb879b899": {
+      "ProjectGuid": "bb755573-e6e2-4525-bfb6-bafeb879b899",
+      "DisplayName": "07. Food Delivery",
+      "ColorIndex": 6
+    },
+    "3c1d7bb6-bd68-47b9-9e12-341c70336e20": {
+      "ProjectGuid": "3c1d7bb6-bd68-47b9-9e12-341c70336e20",
+      "DisplayName": "08. Basketball Equipment",
+      "ColorIndex": 7
+    },
+    "6cbf2310-2d25-41f6-8540-14bc6c9f39fa": {
+      "ProjectGuid": "6cbf2310-2d25-41f6-8540-14bc6c9f39fa",
+      "DisplayName": "09. Fish Tank",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 9
 }
