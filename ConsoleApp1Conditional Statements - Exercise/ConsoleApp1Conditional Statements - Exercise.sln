@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sum Seconds", "01. Sum 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Bonus Score", "02. Bonus Score\02. Bonus Score.csproj", "{07D55067-C029-4608-95CD-1AAE2345F767}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Time + 15 Minutes", "03. Time + 15 Minutes\03. Time + 15 Minutes.csproj", "{3542AC03-C271-4D22-8944-DFEA01638D30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{07D55067-C029-4608-95CD-1AAE2345F767}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07D55067-C029-4608-95CD-1AAE2345F767}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07D55067-C029-4608-95CD-1AAE2345F767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3542AC03-C271-4D22-8944-DFEA01638D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3542AC03-C271-4D22-8944-DFEA01638D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3542AC03-C271-4D22-8944-DFEA01638D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3542AC03-C271-4D22-8944-DFEA01638D30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
