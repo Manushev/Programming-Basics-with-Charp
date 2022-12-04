@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Time + 15 Minutes", "03
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Toy Shop", "04. Toy Shop\04. Toy Shop.csproj", "{B7897176-EE8B-442A-917E-0B70DDBCE0A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Godzilla vs. Kong", "05. Godzilla vs. Kong\05. Godzilla vs. Kong.csproj", "{F450C052-C073-4CD5-B80C-6E717F2A4ABC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B7897176-EE8B-442A-917E-0B70DDBCE0A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7897176-EE8B-442A-917E-0B70DDBCE0A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7897176-EE8B-442A-917E-0B70DDBCE0A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F450C052-C073-4CD5-B80C-6E717F2A4ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F450C052-C073-4CD5-B80C-6E717F2A4ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F450C052-C073-4CD5-B80C-6E717F2A4ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F450C052-C073-4CD5-B80C-6E717F2A4ABC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
