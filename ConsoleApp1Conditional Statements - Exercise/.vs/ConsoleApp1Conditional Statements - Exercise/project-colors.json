@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "46f7ac83-4036-443d-bc1a-09e260779690": {
+      "ProjectGuid": "46f7ac83-4036-443d-bc1a-09e260779690",
+      "DisplayName": "01. Sum Seconds",
+      "ColorIndex": 0
+    },
+    "07d55067-c029-4608-95cd-1aae2345f767": {
+      "ProjectGuid": "07d55067-c029-4608-95cd-1aae2345f767",
+      "DisplayName": "02. Bonus Score",
+      "ColorIndex": 1
+    },
+    "3542ac03-c271-4d22-8944-dfea01638d30": {
+      "ProjectGuid": "3542ac03-c271-4d22-8944-dfea01638d30",
+      "DisplayName": "03. Time + 15 Minutes",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
