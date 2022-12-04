@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Swimming Record", "06. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Shopping", "07. Shopping\07. Shopping.csproj", "{5BBFEB45-D8A6-4ADD-A57A-2BCC3986B789}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Lunch Break", "08. Lunch Break\08. Lunch Break.csproj", "{5080098E-E990-4DEB-94CB-83E93682CA64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{5BBFEB45-D8A6-4ADD-A57A-2BCC3986B789}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BBFEB45-D8A6-4ADD-A57A-2BCC3986B789}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BBFEB45-D8A6-4ADD-A57A-2BCC3986B789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5080098E-E990-4DEB-94CB-83E93682CA64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5080098E-E990-4DEB-94CB-83E93682CA64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5080098E-E990-4DEB-94CB-83E93682CA64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5080098E-E990-4DEB-94CB-83E93682CA64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
