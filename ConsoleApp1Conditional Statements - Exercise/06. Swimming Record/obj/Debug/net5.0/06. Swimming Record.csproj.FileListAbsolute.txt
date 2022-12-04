@@ -1,0 +1,16 @@
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\ConsoleApp1Conditional Statements - Exercise\06. Swimming Record\bin\Debug\net5.0\06. Swimming Record.exe
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\ConsoleApp1Conditional Statements - Exercise\06. Swimming Record\bin\Debug\net5.0\06. Swimming Record.deps.json
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\ConsoleApp1Conditional Statements - Exercise\06. Swimming Record\bin\Debug\net5.0\06. Swimming Record.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\ConsoleApp1Conditional Statements - Exercise\06. Swimming Record\bin\Debug\net5.0\06. Swimming Record.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\ConsoleApp1Conditional Statements - Exercise\06. Swimming Record\bin\Debug\net5.0\06. Swimming Record.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\ConsoleApp1Conditional Statements - Exercise\06. Swimming Record\bin\Debug\net5.0\ref\06. Swimming Record.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\ConsoleApp1Conditional Statements - Exercise\06. Swimming Record\bin\Debug\net5.0\06. Swimming Record.pdb
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\ConsoleApp1Conditional Statements - Exercise\06. Swimming Record\obj\Debug\net5.0\06. Swimming Record.csproj.AssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\ConsoleApp1Conditional Statements - Exercise\06. Swimming Record\obj\Debug\net5.0\06. Swimming Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\ConsoleApp1Conditional Statements - Exercise\06. Swimming Record\obj\Debug\net5.0\06. Swimming Record.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\ConsoleApp1Conditional Statements - Exercise\06. Swimming Record\obj\Debug\net5.0\06. Swimming Record.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\ConsoleApp1Conditional Statements - Exercise\06. Swimming Record\obj\Debug\net5.0\06. Swimming Record.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\ConsoleApp1Conditional Statements - Exercise\06. Swimming Record\obj\Debug\net5.0\06. Swimming Record.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\ConsoleApp1Conditional Statements - Exercise\06. Swimming Record\obj\Debug\net5.0\ref\06. Swimming Record.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\ConsoleApp1Conditional Statements - Exercise\06. Swimming Record\obj\Debug\net5.0\06. Swimming Record.pdb
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\ConsoleApp1Conditional Statements - Exercise\06. Swimming Record\obj\Debug\net5.0\06. Swimming Record.genruntimeconfig.cache
