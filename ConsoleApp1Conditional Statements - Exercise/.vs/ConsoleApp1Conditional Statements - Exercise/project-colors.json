@@ -15,7 +15,32 @@
       "ProjectGuid": "3542ac03-c271-4d22-8944-dfea01638d30",
       "DisplayName": "03. Time + 15 Minutes",
       "ColorIndex": 2
+    },
+    "b7897176-ee8b-442a-917e-0b70ddbce0a0": {
+      "ProjectGuid": "b7897176-ee8b-442a-917e-0b70ddbce0a0",
+      "DisplayName": "04. Toy Shop",
+      "ColorIndex": 3
+    },
+    "f450c052-c073-4cd5-b80c-6e717f2a4abc": {
+      "ProjectGuid": "f450c052-c073-4cd5-b80c-6e717f2a4abc",
+      "DisplayName": "05. Godzilla vs. Kong",
+      "ColorIndex": 4
+    },
+    "41da93ef-d3bc-422c-920b-993c514d6490": {
+      "ProjectGuid": "41da93ef-d3bc-422c-920b-993c514d6490",
+      "DisplayName": "06. Swimming Record",
+      "ColorIndex": 5
+    },
+    "5bbfeb45-d8a6-4add-a57a-2bcc3986b789": {
+      "ProjectGuid": "5bbfeb45-d8a6-4add-a57a-2bcc3986b789",
+      "DisplayName": "07. Shopping",
+      "ColorIndex": 6
+    },
+    "5080098e-e990-4deb-94cb-83e93682ca64": {
+      "ProjectGuid": "5080098e-e990-4deb-94cb-83e93682ca64",
+      "DisplayName": "08. Lunch Break",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 8
 }
