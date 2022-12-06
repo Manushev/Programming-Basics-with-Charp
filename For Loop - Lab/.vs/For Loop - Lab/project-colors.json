@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3dbbf371-1b29-4aa7-a2f3-ce3f18cd926c": {
+      "ProjectGuid": "3dbbf371-1b29-4aa7-a2f3-ce3f18cd926c",
+      "DisplayName": "01. Numbers from 1 to 100",
+      "ColorIndex": 0
+    },
+    "375f6dbf-59b7-4d45-979d-ae1c9bf491b6": {
+      "ProjectGuid": "375f6dbf-59b7-4d45-979d-ae1c9bf491b6",
+      "DisplayName": "02. Numbers NTo1",
+      "ColorIndex": 1
+    },
+    "ae3fb68d-0322-4cae-857b-fa46b6730ece": {
+      "ProjectGuid": "ae3fb68d-0322-4cae-857b-fa46b6730ece",
+      "DisplayName": "03. Numbers 1ToN with Step 3",
+      "ColorIndex": 2
+    },
+    "831a4953-9879-42d3-a559-5eb98d3e8b1c": {
+      "ProjectGuid": "831a4953-9879-42d3-a559-5eb98d3e8b1c",
+      "DisplayName": "04. Even Powers of 2",
+      "ColorIndex": 3
+    },
+    "5ca6553b-a9f5-4a17-a0da-e3d51022672f": {
+      "ProjectGuid": "5ca6553b-a9f5-4a17-a0da-e3d51022672f",
+      "DisplayName": "05. Character Sequence",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
