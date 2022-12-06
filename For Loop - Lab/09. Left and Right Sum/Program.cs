@@ -31,7 +31,7 @@ namespace _09._Left_and_Right_Sum
             }
             else
             {
-                Console.WriteLine($"No, diff = {leftSum - rightSum}");
+                Console.WriteLine($"No, diff = {Math.Abs(leftSum - rightSum)}");
             }
         }
     }
