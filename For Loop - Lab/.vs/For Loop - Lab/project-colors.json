@@ -25,7 +25,32 @@
       "ProjectGuid": "5ca6553b-a9f5-4a17-a0da-e3d51022672f",
       "DisplayName": "05. Character Sequence",
       "ColorIndex": 4
+    },
+    "31683766-4464-4996-8e13-b886b2aeb424": {
+      "ProjectGuid": "31683766-4464-4996-8e13-b886b2aeb424",
+      "DisplayName": "06. Vowels Sum",
+      "ColorIndex": 5
+    },
+    "424b7d22-54db-4691-b15f-32f8cb4712ba": {
+      "ProjectGuid": "424b7d22-54db-4691-b15f-32f8cb4712ba",
+      "DisplayName": "07. Sum Numbers",
+      "ColorIndex": 6
+    },
+    "ed08eda5-d2e8-4a81-9c5d-b1157b46ab25": {
+      "ProjectGuid": "ed08eda5-d2e8-4a81-9c5d-b1157b46ab25",
+      "DisplayName": "08. Number sequence",
+      "ColorIndex": 7
+    },
+    "fa77e275-25fe-4b5b-ae9b-e8dd9808b0a2": {
+      "ProjectGuid": "fa77e275-25fe-4b5b-ae9b-e8dd9808b0a2",
+      "DisplayName": "09. Left and Right Sum",
+      "ColorIndex": 8
+    },
+    "e2973c95-8316-49e6-a2a0-d4940f5b4976": {
+      "ProjectGuid": "e2973c95-8316-49e6-a2a0-d4940f5b4976",
+      "DisplayName": "10. Odd Even Sum",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 10
 }
