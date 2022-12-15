@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "98e88d8d-e35c-4c21-a186-0ba3a7f7b2df": {
+      "ProjectGuid": "98e88d8d-e35c-4c21-a186-0ba3a7f7b2df",
+      "DisplayName": "01. Day of Week",
+      "ColorIndex": 0
+    },
+    "d196dfd6-bb7e-4765-b409-df0de3166b8d": {
+      "ProjectGuid": "d196dfd6-bb7e-4765-b409-df0de3166b8d",
+      "DisplayName": "02.Weekend or Working Day",
+      "ColorIndex": 1
+    },
+    "8d3fc006-98fe-4433-8bf4-4e0fffee4c4b": {
+      "ProjectGuid": "8d3fc006-98fe-4433-8bf4-4e0fffee4c4b",
+      "DisplayName": "03. Animal Type",
+      "ColorIndex": 2
+    },
+    "e57ae9a6-f693-46af-9ec3-1d9176166b73": {
+      "ProjectGuid": "e57ae9a6-f693-46af-9ec3-1d9176166b73",
+      "DisplayName": "04. Personal Titles",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
