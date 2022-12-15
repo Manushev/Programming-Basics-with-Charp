@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Cinema Ticket", "08.Cine
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Fruit or Vegetable", "09. Fruit or Vegetable\09. Fruit or Vegetable.csproj", "{61DEE774-7387-49D2-AAE1-87B74B561D63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Invalid Number", "10. Invalid Number\10. Invalid Number.csproj", "{93345833-1567-4EF1-A02F-E9A792CEBD99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{61DEE774-7387-49D2-AAE1-87B74B561D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61DEE774-7387-49D2-AAE1-87B74B561D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61DEE774-7387-49D2-AAE1-87B74B561D63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93345833-1567-4EF1-A02F-E9A792CEBD99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93345833-1567-4EF1-A02F-E9A792CEBD99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93345833-1567-4EF1-A02F-E9A792CEBD99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93345833-1567-4EF1-A02F-E9A792CEBD99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
