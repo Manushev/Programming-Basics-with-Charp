@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Fruit or Vegetable", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Invalid Number", "10. Invalid Number\10. Invalid Number.csproj", "{93345833-1567-4EF1-A02F-E9A792CEBD99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Fruit Shop", "11. Fruit Shop\11. Fruit Shop.csproj", "{0CD8161D-54A7-4625-8945-62B1D90FBED5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{93345833-1567-4EF1-A02F-E9A792CEBD99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93345833-1567-4EF1-A02F-E9A792CEBD99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93345833-1567-4EF1-A02F-E9A792CEBD99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CD8161D-54A7-4625-8945-62B1D90FBED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD8161D-54A7-4625-8945-62B1D90FBED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD8161D-54A7-4625-8945-62B1D90FBED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD8161D-54A7-4625-8945-62B1D90FBED5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
