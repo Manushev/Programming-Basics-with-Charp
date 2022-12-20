@@ -6,7 +6,7 @@ namespace _05._Journey
     {
         static void Main(string[] args)
         {
-            var budget = int.Parse(Console.ReadLine());
+            var budget = double.Parse(Console.ReadLine());
             var season = Console.ReadLine();
 
             var totalPrice = 0.0;

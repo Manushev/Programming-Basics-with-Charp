@@ -1,0 +1,16 @@
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\Conditional Statements Advanced - Exercise\06.Between Numbers\bin\Debug\net5.0\06.Between Numbers.exe
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\Conditional Statements Advanced - Exercise\06.Between Numbers\bin\Debug\net5.0\06.Between Numbers.deps.json
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\Conditional Statements Advanced - Exercise\06.Between Numbers\bin\Debug\net5.0\06.Between Numbers.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\Conditional Statements Advanced - Exercise\06.Between Numbers\bin\Debug\net5.0\06.Between Numbers.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\Conditional Statements Advanced - Exercise\06.Between Numbers\bin\Debug\net5.0\06.Between Numbers.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\Conditional Statements Advanced - Exercise\06.Between Numbers\bin\Debug\net5.0\ref\06.Between Numbers.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\Conditional Statements Advanced - Exercise\06.Between Numbers\bin\Debug\net5.0\06.Between Numbers.pdb
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\Conditional Statements Advanced - Exercise\06.Between Numbers\obj\Debug\net5.0\06.Between Numbers.csproj.AssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\Conditional Statements Advanced - Exercise\06.Between Numbers\obj\Debug\net5.0\06.Between Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\Conditional Statements Advanced - Exercise\06.Between Numbers\obj\Debug\net5.0\06.Between Numbers.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\Conditional Statements Advanced - Exercise\06.Between Numbers\obj\Debug\net5.0\06.Between Numbers.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\Conditional Statements Advanced - Exercise\06.Between Numbers\obj\Debug\net5.0\06.Between Numbers.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\Conditional Statements Advanced - Exercise\06.Between Numbers\obj\Debug\net5.0\06.Between Numbers.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\Conditional Statements Advanced - Exercise\06.Between Numbers\obj\Debug\net5.0\ref\06.Between Numbers.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\Conditional Statements Advanced - Exercise\06.Between Numbers\obj\Debug\net5.0\06.Between Numbers.pdb
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\Conditional Statements Advanced - Exercise\06.Between Numbers\obj\Debug\net5.0\06.Between Numbers.genruntimeconfig.cache

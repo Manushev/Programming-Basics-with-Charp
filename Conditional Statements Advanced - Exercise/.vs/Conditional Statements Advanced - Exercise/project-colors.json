@@ -15,7 +15,17 @@
       "ProjectGuid": "e4e245ab-21c9-4cce-a198-103239c504fe",
       "DisplayName": "03. New House",
       "ColorIndex": 2
+    },
+    "9968c3d5-5ec2-476b-8a48-8048000575ec": {
+      "ProjectGuid": "9968c3d5-5ec2-476b-8a48-8048000575ec",
+      "DisplayName": "04. Fishing Boat",
+      "ColorIndex": 3
+    },
+    "d9d76b82-f991-448d-8c4d-38c4e8d6108e": {
+      "ProjectGuid": "d9d76b82-f991-448d-8c4d-38c4e8d6108e",
+      "DisplayName": "05. Journey",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 5
 }
