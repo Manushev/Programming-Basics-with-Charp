@@ -65,7 +65,6 @@ namespace _04._Fishing_Boat
             {
                 Console.WriteLine($"Yes! You have {budget - totalPrice:F2} leva left.");
             }
-            
         }
     }
 }
