@@ -10,7 +10,12 @@
       "ProjectGuid": "059df6c4-5315-448f-894d-f573771068d0",
       "DisplayName": "02. Summer Outfit",
       "ColorIndex": 1
+    },
+    "e4e245ab-21c9-4cce-a198-103239c504fe": {
+      "ProjectGuid": "e4e245ab-21c9-4cce-a198-103239c504fe",
+      "DisplayName": "03. New House",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
