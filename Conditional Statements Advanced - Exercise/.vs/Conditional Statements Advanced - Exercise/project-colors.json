@@ -25,7 +25,17 @@
       "ProjectGuid": "d9d76b82-f991-448d-8c4d-38c4e8d6108e",
       "DisplayName": "05. Journey",
       "ColorIndex": 4
+    },
+    "c8f760be-31fa-4afe-83a2-e6e8a22e2f55": {
+      "ProjectGuid": "c8f760be-31fa-4afe-83a2-e6e8a22e2f55",
+      "DisplayName": "06.Between Numbers",
+      "ColorIndex": 5
+    },
+    "3e96fc58-f82c-409f-8a12-7486b8afb0a6": {
+      "ProjectGuid": "3e96fc58-f82c-409f-8a12-7486b8afb0a6",
+      "DisplayName": "08. On Time for the Exam",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 7
 }
