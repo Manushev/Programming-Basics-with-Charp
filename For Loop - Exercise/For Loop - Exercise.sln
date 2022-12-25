@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Numbers Ending in 7", "01. Numbers Ending in 7\01. Numbers Ending in 7.csproj", "{35CA4A68-F9DD-4C32-AF60-3EA1D69E0606}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Half Sum Element", "02. Half Sum Element\02. Half Sum Element.csproj", "{F8EFD143-65C3-4474-9B69-C47C9501F6DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{35CA4A68-F9DD-4C32-AF60-3EA1D69E0606}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35CA4A68-F9DD-4C32-AF60-3EA1D69E0606}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35CA4A68-F9DD-4C32-AF60-3EA1D69E0606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8EFD143-65C3-4474-9B69-C47C9501F6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8EFD143-65C3-4474-9B69-C47C9501F6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8EFD143-65C3-4474-9B69-C47C9501F6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8EFD143-65C3-4474-9B69-C47C9501F6DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
