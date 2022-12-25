@@ -35,7 +35,12 @@
       "ProjectGuid": "3e96fc58-f82c-409f-8a12-7486b8afb0a6",
       "DisplayName": "08. On Time for the Exam",
       "ColorIndex": 6
+    },
+    "9ab96731-77ac-49ca-9b6d-ad0c0376baf8": {
+      "ProjectGuid": "9ab96731-77ac-49ca-9b6d-ad0c0376baf8",
+      "DisplayName": "09. Ski Trip",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }

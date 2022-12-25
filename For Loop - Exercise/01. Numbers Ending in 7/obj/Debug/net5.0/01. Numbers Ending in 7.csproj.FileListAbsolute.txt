@@ -1,0 +1,16 @@
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.exe
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.deps.json
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\ref\01. Numbers Ending in 7.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.pdb
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.csproj.AssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\ref\01. Numbers Ending in 7.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.pdb
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.genruntimeconfig.cache
