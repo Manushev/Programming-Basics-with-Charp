@@ -18,7 +18,7 @@ namespace _03._Histogram
             {
                 var number = int.Parse(Console.ReadLine());
 
-                if (number <= 200)
+                if (number < 200)
                 {
                     p1++;
                 }
