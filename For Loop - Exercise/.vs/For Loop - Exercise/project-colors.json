@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "35ca4a68-f9dd-4c32-af60-3ea1d69e0606": {
+      "ProjectGuid": "35ca4a68-f9dd-4c32-af60-3ea1d69e0606",
+      "DisplayName": "01. Numbers Ending in 7",
+      "ColorIndex": 0
+    },
+    "f8efd143-65c3-4474-9b69-c47c9501f6dd": {
+      "ProjectGuid": "f8efd143-65c3-4474-9b69-c47c9501f6dd",
+      "DisplayName": "02. Half Sum Element",
+      "ColorIndex": 1
+    },
+    "5dde351f-231a-4a5d-8608-7b060c8b4c1d": {
+      "ProjectGuid": "5dde351f-231a-4a5d-8608-7b060c8b4c1d",
+      "DisplayName": "03. Histogram",
+      "ColorIndex": 2
+    },
+    "201a7311-9d9d-4aa3-9086-8cadd7567712": {
+      "ProjectGuid": "201a7311-9d9d-4aa3-9086-8cadd7567712",
+      "DisplayName": "04. Clever Lily",
+      "ColorIndex": 3
+    },
+    "ef351644-5c72-448d-ba07-46b91546adb1": {
+      "ProjectGuid": "ef351644-5c72-448d-ba07-46b91546adb1",
+      "DisplayName": "05. Salary",
+      "ColorIndex": 4
+    },
+    "8f1728f6-2dfc-4a5e-aa29-bdefaed82826": {
+      "ProjectGuid": "8f1728f6-2dfc-4a5e-aa29-bdefaed82826",
+      "DisplayName": "06. Oscars",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
