@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Clever Lily", "04. Clev
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Salary", "05. Salary\05. Salary.csproj", "{EF351644-5C72-448D-BA07-46B91546ADB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Oscars", "06. Oscars\06. Oscars.csproj", "{8F1728F6-2DFC-4A5E-AA29-BDEFAED82826}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Oscars", "06. Oscars\06. Oscars.csproj", "{8F1728F6-2DFC-4A5E-AA29-BDEFAED82826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Trekking Mania", "07. Trekking Mania\07. Trekking Mania.csproj", "{8440486C-D2BF-4420-BC3D-3DCE71368A64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{8F1728F6-2DFC-4A5E-AA29-BDEFAED82826}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F1728F6-2DFC-4A5E-AA29-BDEFAED82826}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F1728F6-2DFC-4A5E-AA29-BDEFAED82826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8440486C-D2BF-4420-BC3D-3DCE71368A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8440486C-D2BF-4420-BC3D-3DCE71368A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8440486C-D2BF-4420-BC3D-3DCE71368A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8440486C-D2BF-4420-BC3D-3DCE71368A64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
