@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Sequence 2k+1", "04. Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Account Balance", "05. Account Balance\05. Account Balance.csproj", "{71185273-7007-4717-8850-6496DD35A084}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Max Number", "06. Max Number\06. Max Number.csproj", "{98832BD3-A052-40FB-A131-8AE3EC22980A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{71185273-7007-4717-8850-6496DD35A084}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71185273-7007-4717-8850-6496DD35A084}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71185273-7007-4717-8850-6496DD35A084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98832BD3-A052-40FB-A131-8AE3EC22980A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98832BD3-A052-40FB-A131-8AE3EC22980A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98832BD3-A052-40FB-A131-8AE3EC22980A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98832BD3-A052-40FB-A131-8AE3EC22980A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
