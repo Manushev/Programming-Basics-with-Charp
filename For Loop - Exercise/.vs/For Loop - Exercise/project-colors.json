@@ -30,7 +30,17 @@
       "ProjectGuid": "8f1728f6-2dfc-4a5e-aa29-bdefaed82826",
       "DisplayName": "06. Oscars",
       "ColorIndex": 5
+    },
+    "8440486c-d2bf-4420-bc3d-3dce71368a64": {
+      "ProjectGuid": "8440486c-d2bf-4420-bc3d-3dce71368a64",
+      "DisplayName": "07. Trekking Mania",
+      "ColorIndex": 6
+    },
+    "cfe4b95c-a8cb-4b0d-b02c-00aef3a918d1": {
+      "ProjectGuid": "cfe4b95c-a8cb-4b0d-b02c-00aef3a918d1",
+      "DisplayName": "08. Tennis Ranklist",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 8
 }
