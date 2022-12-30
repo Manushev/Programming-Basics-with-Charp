@@ -8,8 +8,6 @@ namespace _01._Read_Text
         {
             var cmd = Console.ReadLine();
 
-            Console.WriteLine();
-
             while (cmd != "Stop")
             {
                 Console.WriteLine(cmd);
