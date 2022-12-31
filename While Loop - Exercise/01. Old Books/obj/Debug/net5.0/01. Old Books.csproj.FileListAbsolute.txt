@@ -1,0 +1,16 @@
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.csproj.AssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.exe
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.deps.json
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\ref\01. Old Books.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\While Loop - Exercise\01. Old Books\bin\Debug\net5.0\01. Old Books.pdb
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\ref\01. Old Books.dll
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.pdb
+C:\Users\yurio\OneDrive\Documents\GitHub\Programming-Basics-with-C-\While Loop - Exercise\01. Old Books\obj\Debug\net5.0\01. Old Books.genruntimeconfig.cache
