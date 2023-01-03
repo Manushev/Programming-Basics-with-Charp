@@ -5,7 +5,37 @@
       "ProjectGuid": "a8a2e3eb-c4f5-439d-a0cc-393515d7c1c8",
       "DisplayName": "01. Old Books",
       "ColorIndex": 0
+    },
+    "8a4238f4-3826-4dd4-9aad-76199524e236": {
+      "ProjectGuid": "8a4238f4-3826-4dd4-9aad-76199524e236",
+      "DisplayName": "02. Exam Preparation",
+      "ColorIndex": 1
+    },
+    "09992f6b-0d6e-499d-8078-55fc94d4c5b3": {
+      "ProjectGuid": "09992f6b-0d6e-499d-8078-55fc94d4c5b3",
+      "DisplayName": "03. Vacation",
+      "ColorIndex": 2
+    },
+    "2c1b93a0-e22f-4776-8248-6f145e496ef3": {
+      "ProjectGuid": "2c1b93a0-e22f-4776-8248-6f145e496ef3",
+      "DisplayName": "04. Walking",
+      "ColorIndex": 3
+    },
+    "1e5a9f63-7841-4deb-9cdc-3af4d8d96619": {
+      "ProjectGuid": "1e5a9f63-7841-4deb-9cdc-3af4d8d96619",
+      "DisplayName": "05. Coins",
+      "ColorIndex": 4
+    },
+    "24118a25-18b0-4245-a24e-f2f69098cd03": {
+      "ProjectGuid": "24118a25-18b0-4245-a24e-f2f69098cd03",
+      "DisplayName": "06. Cake",
+      "ColorIndex": 5
+    },
+    "e687230b-5917-48d1-88ee-4603d8431cf0": {
+      "ProjectGuid": "e687230b-5917-48d1-88ee-4603d8431cf0",
+      "DisplayName": "07. Moving",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 7
 }
